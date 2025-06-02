@@ -1,4 +1,4 @@
-# alis_package_hook
+# ALIS-Package-Hook
 Automatically update the package lists in the alis tool when installing/removeing packages
 
 # General description
