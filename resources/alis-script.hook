@@ -1,0 +1,11 @@
+[Trigger]
+Operation = Upgrade
+Operation = Install
+Operation = Remove
+Type = Package
+Target = *
+
+[Action]
+Description = Update alis script program config
+When = PostTransaction
+Exec = /usr/local/bin/alis_hook DIR_TO_ALIS_SCRIPT/alis-script/alis-packages.conf
