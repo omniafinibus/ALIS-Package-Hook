@@ -13,3 +13,4 @@ cp resources/alis-script.hook /usr/local/bin/alis_hook
 ```
 
 # Reference to alis script
+Used for https://github.com/picodotdev/alis
